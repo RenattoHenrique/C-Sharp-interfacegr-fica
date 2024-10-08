@@ -1,0 +1,32 @@
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.exe
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.deps.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.runtimeconfig.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO_DE_NOTAS.Form1.resources
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.AssemblyInfo.cs
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\refint\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.genruntimeconfig.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0710_AULA\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\ref\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.exe
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.deps.json
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\bin\Debug\net8.0-windows\BLOCO DE NOTAS.pdb
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO_DE_NOTAS.Form1.resources
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\refint\BLOCO DE NOTAS.dll
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.pdb
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\BLOCO DE NOTAS.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\BLOCO DE NOTAS-20241008T003815Z-001\BLOCO DE NOTAS\BLOCO DE NOTAS\obj\Debug\net8.0-windows\ref\BLOCO DE NOTAS.dll
